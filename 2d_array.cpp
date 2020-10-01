@@ -3,9 +3,10 @@
 
 #include<iostream>
 using namespace std;
-
+#defin M 3
+#defin N 3 
 int main(){
-  int a[3][3];
+  int a[M][N];
 
   for(int i=0; i<3;i++){
     for(int j=0;j<3;j++){
@@ -16,9 +17,9 @@ int main(){
 
     cout<<"\n\nDisplaying all the elements:\n";
 
-    for(int i=0; i<3;i++){
-       for(int j=0;j<3;j++){
-          cout<<"a["<<i<<"]["<<j<<"]="<<a[i][j]<<endl;
+    for(int m=0; m<3;m++){
+       for(int n=0;n<3;n++){
+          cout<<"a["<<m<<"]["<<n<<"]="<<a[m][n]<<endl;
     }
   }
   return 0;
