@@ -1,4 +1,4 @@
-//this is my first repositary
+//this is my first program at github
 //I am Tushar Gupta
 
 #include<iostream>
