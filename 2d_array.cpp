@@ -16,6 +16,7 @@ int main(){
     }
 
     cout<<"\n\nDisplaying all the elements:\n";
+  // it will display all the elements.
 
     for(int m=0; m<3;m++){
        for(int n=0;n<3;n++){
