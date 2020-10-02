@@ -1,5 +1,4 @@
-//this is my first repositary
-//I am Tushar Gupta
+// I am Tushar Gupta and this is my repositary on Github.
 
 #include<iostream>
 using namespace std;
