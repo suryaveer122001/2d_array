@@ -1,5 +1,9 @@
+
 //this is my first program at github
 //I am Tushar Gupta
+
+// I am Tushar Gupta and this is my repositary on Github.
+
 
 #include<iostream>
 using namespace std;
@@ -16,6 +20,7 @@ int main(){
     }
 
     cout<<"\n\nDisplaying all the elements:\n";
+  // it will display all the elements.
 
     for(int m=0; m<3;m++){
        for(int n=0;n<3;n++){
